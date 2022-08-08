@@ -3,5 +3,6 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 rpc_endpoints = { ropsten = "https://rpc.ankr.com/eth_ropsten" }
+sender = '0x5f36131717Cd657e04cA6aEd38D230F72547415C'
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
