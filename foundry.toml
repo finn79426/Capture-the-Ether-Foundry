@@ -2,5 +2,6 @@
 src = 'src'
 out = 'out'
 libs = ['lib']
+rpc_endpoints = { ropsten = "https://rpc.ankr.com/eth_ropsten" }
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
